@@ -29,6 +29,8 @@
 
 
 ## Relation between age and gender bases on orders ?
+![image](https://github.com/user-attachments/assets/842c9963-5eb9-43f2-9b0f-36c3713aca4c)
+
 
 ## Which channel is contributing to maximum sales ?
 
