@@ -20,8 +20,9 @@
 ## Who purchased more men or women in 2022 ?
 ![image](https://github.com/user-attachments/assets/57570613-11fa-457f-81ed-09f5aa28e126)
 
-
 ## What are different order status in 2022?
+![image](https://github.com/user-attachments/assets/d0e903f4-63be-4601-a968-241071ef58f4)
+
 
 ## List top 10 states contributing to maximum sales ?
 
