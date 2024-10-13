@@ -15,3 +15,9 @@
 ## Which channel is contributing to maximum sales ?
 
 ## Highest selling category ?
+
+
+# Data cleaning 
+## 19 columns and 31048 rows
+![image](https://github.com/user-attachments/assets/34ef19d6-0a83-45f0-939c-fcad8d0683fd)
+
