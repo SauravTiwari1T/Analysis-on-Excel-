@@ -25,7 +25,12 @@
 ![image](https://github.com/user-attachments/assets/51dde54f-19f7-41f4-b4dc-41174a917393)
 
 # Data processing 
-![image](https://github.com/user-attachments/assets/c9322f3d-137c-4f80-8f69-610b544fadc3)
+![image](https://github.com/user-attachments/assets/b97482f4-63ca-4e32-8c31-b00dfd209936)
+
+# Processed data
+![image](https://github.com/user-attachments/assets/618eb965-6aee-46c9-9ff0-f40dcc233335)
+
+
 
 
 
