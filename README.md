@@ -33,11 +33,4 @@
 
 
 ## Which channel is contributing to maximum sales ?
-
-## Highest selling category ?
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/b5e1a85f-5389-404f-8364-2ceaacd1928e)
