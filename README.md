@@ -12,6 +12,8 @@
 ![image](https://github.com/user-attachments/assets/5e4c77cb-45a4-403b-92cc-2c140e9e3e14)
 
 ## Compare the sales and order using single chart 
+![image](https://github.com/user-attachments/assets/e2fcaba5-f670-40dd-914e-91eb2d2b3fa3)
+
 
 ## Which month got heighest sales and orders ?
 
