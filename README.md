@@ -24,4 +24,8 @@
 # Cleaned data 
 ![image](https://github.com/user-attachments/assets/51dde54f-19f7-41f4-b4dc-41174a917393)
 
+# Data processing 
+![image](https://github.com/user-attachments/assets/c9322f3d-137c-4f80-8f69-610b544fadc3)
+
+
 
