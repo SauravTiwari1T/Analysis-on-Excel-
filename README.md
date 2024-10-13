@@ -21,3 +21,7 @@
 ## 19 columns and 31048 rows
 ![image](https://github.com/user-attachments/assets/34ef19d6-0a83-45f0-939c-fcad8d0683fd)
 
+# Cleaned data 
+![image](https://github.com/user-attachments/assets/51dde54f-19f7-41f4-b4dc-41174a917393)
+
+
