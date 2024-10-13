@@ -1,7 +1,4 @@
 # Analysis-on-Excel-
-
-# Data cleaning 
-## 19 columns and 31048 rows
 # Row data 📄
 ![image](https://github.com/user-attachments/assets/34ef19d6-0a83-45f0-939c-fcad8d0683fd)
 
