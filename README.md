@@ -25,6 +25,8 @@
 
 
 ## List top 10 states contributing to maximum sales ?
+![image](https://github.com/user-attachments/assets/24f417f1-150f-41fb-bc38-251118d3b9fc)
+
 
 ## Relation between age and gender bases on orders ?
 
