@@ -14,9 +14,6 @@
 ## Compare the sales and order using single chart 
 ![image](https://github.com/user-attachments/assets/e2fcaba5-f670-40dd-914e-91eb2d2b3fa3)
 
-
-## Which month got heighest sales and orders ?
-
 ## Who purchased more men or women in 2022 ?
 ![image](https://github.com/user-attachments/assets/57570613-11fa-457f-81ed-09f5aa28e126)
 
